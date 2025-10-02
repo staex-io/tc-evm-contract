@@ -4,7 +4,10 @@ out/
 
 # Ignores development broadcast logs
 !/broadcast
+/broadcast/*/39/
+/broadcast/*/2484/
 /broadcast/*/31337/
+/broadcast/*/11155420/
 /broadcast/**/dry-run/
 
 # Docs
@@ -12,3 +15,6 @@ docs/
 
 # Dotenv file
 .env
+
+# abigen
+abigen.json
