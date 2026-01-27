@@ -4,8 +4,8 @@
 
 ## Smart contracts
 
-[Celo](https://celoscan.io/address/0xeC36E2C45C3EB7E9DBa1Df42c39024EFD17743C7)
-[Celo Sepolia](https://sepolia.celoscan.io/address/0xeC36E2C45C3EB7E9DBa1Df42c39024EFD17743C7)
+- [Celo](https://celoscan.io/address/0xeC36E2C45C3EB7E9DBa1Df42c39024EFD17743C7)
+- [Celo Sepolia](https://sepolia.celoscan.io/address/0xeC36E2C45C3EB7E9DBa1Df42c39024EFD17743C7)
 
 ## Usage
 
