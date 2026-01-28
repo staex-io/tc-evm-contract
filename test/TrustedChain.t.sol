@@ -11,5 +11,7 @@ contract TrustedChainTest is Test {
         trustedchain = new TrustedChain();
     }
 
-    function test_Mock() public {}
+    function test_Execution() public {
+        trustedchain.claimTelemetry("hash", "signature");
+    }
 }
